@@ -1,6 +1,7 @@
 {
 	"author": "Juanito Emia",
 	"description": "Learning Node Is Fun",
+	"keywords": ["Learn Node at FreeCodeCamp", "Basic Node Tutorials"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
