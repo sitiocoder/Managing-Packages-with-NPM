@@ -3,6 +3,7 @@
 	"description": "Learning Node Is Fun",
 	"name": "fcc-learn-npm-package-json",
 	"license": "MIT",
+	"version": "11.0.0",
 	 "keywords": ["Learning Node is a bit challenging", "freecodecamp", "VxOde"],
 	"dependencies": {
 		"express": "^4.14.0"
