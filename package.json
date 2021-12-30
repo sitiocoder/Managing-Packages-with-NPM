@@ -1,5 +1,6 @@
 {
 	"author": "Juanito Emia",
+	"description": "Learning Node Is Fun",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
