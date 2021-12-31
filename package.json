@@ -6,7 +6,8 @@
 	"version": "11.0.0",
 	 "keywords": ["Learning Node is a bit challenging", "freecodecamp", "VxOde"],
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
